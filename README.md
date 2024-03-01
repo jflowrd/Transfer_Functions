@@ -6,6 +6,8 @@
 
 ## Transfer function data
 
+- Transfer functions names cableTF.npz are for the MD scope line. Other transfer functions are named accordingly. (tf-apwl10-sig8v4.dat is the pickup TF).
+
 2014: MD line
 
 2021: MD line (notch in Freq. spectrum)
