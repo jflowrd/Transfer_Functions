@@ -1,10 +1,10 @@
-## Transfer_Functions
+# Transfer_Functions
 
 ''' Git repositary which collects the SPS transfer functions together '''
 
 'README.txt' : Information about the data collected in 2024 [link here to data]
 
-# Transfer function data
+## Transfer function data
 
 2014: MD line
 
@@ -16,7 +16,7 @@
 
 More info: https://codimd.web.cern.ch/j8gUy4npRCmIkoaMmZjizQ?view
 
-# Transfer function code
+## Transfer function code
 
 calculate_transfer_function.py: calculates the transfer function from .csv files collected in 2024
 
