@@ -14,7 +14,7 @@
 
 2024: MD, BQM*, Tomo, ABWLM, PS2SPS (*BQM signal saturated and so there is a notch in the freq. spectrum)
 
-Transfer functions names cableTF.npz are for the MD scope line. Other transfer functions are named accordingly. (tf-apwl10-sig8v4.dat is the pickup TF).
+Transfer functions named cableTF.npz are for the MD scope line. Other transfer functions are named accordingly. (tf-apwl10-sig8v4.dat is the pickup TF).
 
 More info: https://codimd.web.cern.ch/j8gUy4npRCmIkoaMmZjizQ?view
 
