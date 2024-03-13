@@ -2,7 +2,7 @@
 
 ''' Git repositary which collects the SPS transfer functions together '''
 
-'README.txt' : Information about the data collected in 2024 [link here to data]
+'README.txt' : Information about the data collected in 2024 [https://doi.org/10.5281/zenodo.10814568]
 
 ## Transfer function data
 
